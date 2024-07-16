@@ -23,8 +23,10 @@ add_executable(PuffinOS main.cpp
 
         Terminal/Error_Stream/Error_Stream.h
         Terminal/Error_Stream/Error_Stream.cpp
+        
         Folder_Class/Folder.h
         Folder_Class/Folder.cpp
+        
         Network/Network.h
         Network/Network.cpp
 )
