@@ -1,2 +1,2 @@
 # PuffinOS
-A simulation operating system based on C++ 17
+A simulation operating system based on C++17 **(not completed)**. 
